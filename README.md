@@ -17,6 +17,9 @@ STEPS for step-by-step directions, meaning a brief description of each maneuver 
 
 Step 3:
 TOTALDISTANCE for the total distance traveled if completing the entire trip
+
 TOTALTIME for the total estimated time to complete the entire trip
+
 LATLONG for the latitude and longitude of each of the locations specified in the input
+
 ELEVATION for the elevation, in feet, of each of the locations specified in the input
